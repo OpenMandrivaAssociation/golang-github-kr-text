@@ -19,6 +19,7 @@ URL:		https://github.com/kr/text
 License:	MIT
 Group:		Development/Other
 BuildRequires:	compiler(go-compiler)
+BuildRequires:	golang(github.com/creack/pty)
 
 %description
 This is a Go package for manipulating paragraphs of text.
