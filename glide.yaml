@@ -1,5 +1,0 @@
-import:
-- package: github.com/kr/pty
-  version: fe7bf4339680885ba71b3e0a2b07ff378a9020e4
-package: github.com/kr/text
-
